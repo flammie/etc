@@ -1,0 +1,6 @@
+sys-kernel/linux-firmware no-source-code linux-fw-redistributable
+x11-drivers/nvidia-drivers NVIDIA-r2
+net-im/skypeforlinux Skype-TOS
+net-im/teams ms-teams-pre
+games-util/steam-launcher ValveSteamLicense
+media-fonts/font-bh-ttf bh-luxi
